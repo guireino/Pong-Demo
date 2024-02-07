@@ -1,0 +1,4 @@
+repository "Pong Demo@Guireino@cloud"
+  path "/"
+    br "/main"
+    co "/main"
